@@ -41,7 +41,7 @@ dev_python() {
     fi
 
     cd python-llm || exit
-    uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+    uvicorn app.main:app --reload --host 0.0.0.0 --port 5000
 }
 
 # Verifica o comando passado como argumento
