@@ -83,3 +83,10 @@ O resumo gerado é salvo com o texto original e a versao resumida e traduzido co
 ## Em ambos os projetos
 
 - Deve possuir uma rota inicial(/) que retorne um JSON com a propriedade `message` contendo a mensagem "API is running".
+
+### Observações
+
+- Após a conclusão, suba o projeto no seu repositório pessoal e envie o link para o recrutador.
+- Caso tenha alguma dúvida, entre em contato com o recrutador.
+
+# Desejamos um bom desafio! 🚀
